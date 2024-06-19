@@ -24,7 +24,7 @@ I am a Ph.D. student in computer science and technology at Northwestern Polytech
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/acmmm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [All-in-one multi-degradation image restoration network via hierarchical degradation representation](https://dl.acm.org/doi/abs/10.1145/3581783.3611825)
@@ -36,7 +36,7 @@ I am a Ph.D. student in computer science and technology at Northwestern Polytech
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring and evaluating image restoration potential in dynamic scenes](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Exploring_and_Evaluating_Image_Restoration_Potential_in_Dynamic_Scenes_CVPR_2022_paper.pdf)
@@ -48,7 +48,6 @@ I am a Ph.D. student in computer science and technology at Northwestern Polytech
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
