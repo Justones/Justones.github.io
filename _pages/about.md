@@ -47,6 +47,10 @@ I am a Ph.D. student in computer science and technology at Northwestern Polytech
 </div>
 </div>
 
+# 🏅 Honors and Awards
+- First-level Scholarship of NPU
+- Outstanding graduate student of NPU
+- Silver Medal and Bronze Medal, ACM-ICPC Asia Regional Contest 
 
 
 # 📖 Educations
