@@ -50,7 +50,7 @@ I am a Ph.D. student in computer science and technology at Northwestern Polytech
 
 
 # 📖 Educations
-- *2024.01 - now *, Visiting Ph.D. at UNSW, Sydney.
+- *2024.01 -  now*, Visiting Ph.D. at UNSW, Sydney.
 - *2018.09 -  now*, Ph.D. student in Computer Science and Technology at NPU. 
 - *2014.09 - 2018.06*, Bachelor in Aircraft Design and Engineering at NPU. 
 
