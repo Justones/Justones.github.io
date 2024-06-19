@@ -54,6 +54,5 @@ I am a Ph.D. student in computer science and technology at Northwestern Polytech
 - *2018.09 -  now*, Ph.D. student in Computer Science and Technology at NPU. 
 - *2014.09 - 2018.06*, Bachelor in Aircraft Design and Engineering at NPU. 
 
-#🌟 Academic Services
-- NeurIPS2024,2023 | ICLR2024 | ICML2024 | MM2024,2023| CVPR2023 | ECCV2024|
-- TCSVT
+# 🌟 Academic Services
+- NeurIPS2024,2023  \ ICLR2024  \  ICML2024  \ MM2024,2023  \ CVPR2023  \ ECCV2024
